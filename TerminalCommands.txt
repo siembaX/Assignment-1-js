@@ -1,0 +1,20 @@
+creating a react app
+ npx create_react_app simba
+
+Git Hub
+
+git add .
+git commit -m “message here”
+git push
+
+git stage
+git merge
+git pull 
+git init
+
+Mac Commands
+
+cd
+pwd
+ls
+ls -l
